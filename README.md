@@ -1,3 +1,4 @@
+data from here https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/
 python train.py
 If the data is in a different directory, you can specify the path at runtime by using the --data_dir flag:
 
